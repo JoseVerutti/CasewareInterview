@@ -60,9 +60,6 @@ still says v21, the engagement is `UpToDate`.
 | `PendingRuleTest` | Not verified, up to date, lagging replica, accumulated updates, declines, archived |
 | `ConvergenceProperties` | Any delivery order with duplicates converges; each decision logged once |
 
-The properties were also checked against a deliberately broken projection (no `stateSeq` guard) to
-confirm they fail when they should.
-
 ## Layout
 
 ```
