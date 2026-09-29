@@ -1,0 +1,12 @@
+# Build output
+target/
+
+# IDE
+.idea/
+
+# jqwik
+.jqwik-database
+
+# Take-home documents
+Pending_Template_Updates_Design_Document.docx
+Take-Home_Refactoring_Team_Design_Exercise (1).pdf
